@@ -1,0 +1,11 @@
+add t1, s0, x0    -> lw t1, 0(s0)
+
+Saved temporary register values to the stack before calling passed in function
+
+add t1, s0, x0  ->  lw t1, 0(s0)
+
+Change how offset was calculated, used a0 as a temp register that held 4 and multiplied the offset by 4 to move one word ahead, not one byte
+
+added a ret instruction at the end of done lable
+
+lw a1, 0(s1) -> add a1, zero, s1

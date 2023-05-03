@@ -1,0 +1,7 @@
+1.ls -la
+2.mv
+3.chmod
+4.pwd
+5.find
+6.top
+7.diff

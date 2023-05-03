@@ -1,0 +1,16 @@
+OSTYPE='linux-gnu'
+SH_VERSION='GNU bash, version 5.1.8(1)-release (x86_64-pc-linux-gnu)
+Copyright (C) 2020 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.'
+GIT_VERSION='git version 2.32.0'
+PYTHON_VERSION='Python 3.9.5'
+GCC_VERSION='gcc (GCC) 11.1.0
+Copyright (C) 2021 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.'
+JAVA_VERSION='openjdk version "11.0.11" 2021-04-20
+OpenJDK Runtime Environment (build 11.0.11+9)
+OpenJDK 64-Bit Server VM (build 11.0.11+9, mixed mode)'

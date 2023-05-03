@@ -1,0 +1,15 @@
+sanity/sanity.dict sanity/sanity.in sanity/sanity.ref
+binary_edge/binary_edge.dict ../philphix ../philphix
+alnumtest/alnumtest.dict alnumtest/alnumtest.in alnumtest/alnumtest.ref
+dictnewlntest/dictnewlntest.dict dictnewlntest/dictnewlntest.in dictnewlntest/dictnewlntest.ref
+longdictlongin/longdictlongin.dict longdictlongin/longdictlongin.in longdictlongin/longdictlongin.ref
+longdictmty/longdictmty.dict longdictmty/longdictmty.in longdictmty/longdictmty.ref
+longdictnmty/longdictnmty.dict longdictnmty/longdictnmty.in longdictnmty/longdictnmty.ref
+mtyalltest/mtyalltest.dict mtyalltest/mtyalltest.in mtyalltest/mtyalltest.ref
+mtyintest/mtyintest.dict mtyintest/mtyintest.in mtyintest/mtyintest.ref
+mtytest/mtytest.dict mtytest/mtytest.in mtytest/mtytest.ref
+newlnstest/newlnstest.dict newlnstest/newlnstest.in newlnstest/newlnstest.ref
+nomatchtest/nomatchtest.dict nomatchtest/nomatchtest.in nomatchtest/nomatchtest.ref
+nothingtest/nothingtest.dict nothingtest/nothingtest.in nothingtest/nothingtest.ref
+switchtest/switchtest.dict switchtest/switchtest.in switchtest/switchtest.ref
+nonewln/nonewln.dict nonewln/nonewln.in nonewln/nonewln.ref

@@ -1,0 +1,7 @@
+chunks
+adjacent method was slower because all the threads were reading and writing to the same cache line
+this means that every time a thread completes its calculations and writes back to memory, it invalidates all the other threads caches
+When this happens the modified cache needs to write back to memory and the invalid caches need to read from memory.
+This creates a huge bottleneck and loss of performance.
+
+The chunks method on the other hand could potentially performs very well if the chunks were wide enough that every thread reads and writes to a different cache line
